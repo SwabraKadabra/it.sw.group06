@@ -1,6 +1,6 @@
 ﻿# Auftragsverwaltung – Projektarbeit ZbW
 
-## 📘 Projektübersicht
+## Projektübersicht
 
 Dieses Repository enthält die Projektarbeit **„Auftragsverwaltung“** im Rahmen der Module:
 
@@ -18,7 +18,7 @@ Die Projektarbeit wird **agil nach Scrum** durchgeführt und über **Azure DevOp
 
 ---
 
-## 🛠 Technologie-Stack
+## Technologie-Stack
 
 - **Programmiersprache:** C#
 - **UI:** WPF (MVVM)
